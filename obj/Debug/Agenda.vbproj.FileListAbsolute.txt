@@ -1,0 +1,13 @@
+C:\Users\Saphir\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\Saphir\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\Saphir\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\Saphir\source\repos\Agenda\Agenda\bin\Debug\Agenda.xml
+C:\Users\Saphir\source\repos\Agenda\Agenda\obj\Debug\Agenda.vbprojAssemblyReference.cache
+C:\Users\Saphir\source\repos\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\Saphir\source\repos\Agenda\Agenda\obj\Debug\Agenda.Resources.resources
+C:\Users\Saphir\source\repos\Agenda\Agenda\obj\Debug\Agenda.vbproj.GenerateResource.cache
+C:\Users\Saphir\source\repos\Agenda\Agenda\obj\Debug\Agenda.vbproj.CoreCompileInputs.cache
+C:\Users\Saphir\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\Saphir\source\repos\Agenda\Agenda\obj\Debug\Agenda.xml
+C:\Users\Saphir\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\Saphir\source\repos\Agenda\Agenda\obj\Debug\Agenda.Form2.resources
